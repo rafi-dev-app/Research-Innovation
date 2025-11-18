@@ -1,0 +1,514 @@
+user name,bike model,road type,breakpad life in km
+R. Alamin,Apache RTR,City,6600
+Asef,Hunk/ Extreme / CBZ,City,8000
+Rhyme,Gixxer/gixxer-sf,Highway,10000
+Amer,Fz/fazer,Hill-track,5000
+Sabbir,Suzuki Access 125,City,10000
+Sadik Uz Zaman,Pulsar ug3/ug4/ug4.5/ug5,City,7300
+Rakibul,Apache RTR,Highway,8000
+Alamin,Apache RTR,Hill-track,3500
+Shimul,Honda CbTrigger,City,7500
+Shibbir,Honda CbTrigger,Highway,9000
+Fiha,Honda CbTrigger,Hill-track,4250
+Golam Rabbani,Apache RTR 4V,Highway,12000
+Shakhawat Hossain Niloy,Gixxer/gixxer-sf,City,7000
+Mirza,Bajaj CT100 (drum),City,5000
+Pollock,Fz/fazer,City,5500
+Pollock,Fz/fazer,Highway,13500
+Pollock,Fz/fazer,Hill-track,3500
+Asef,Hunk/ Extreme / CBZ,Highway,15530
+Asef,Hunk/ Extreme / CBZ,Hill-track,5500
+Rhyme,Gixxer/gixxer-sf,City,6300
+Rhyme,Gixxer/gixxer-sf,Hill-track,3800
+Amer,Fz/fazer,Highway,14000
+Sabbir,Suzuki Access 125,Highway,19000
+Sabbir,Suzuki Access 125,Hill-track,6500
+Sadik Uz Zaman,Pulsar ug3/ug4/ug4.5/ug5,Highway,17000
+Sadik Uz Zaman,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,5500
+Golam Rabbani,Apache RTR 4V,City,6700
+Golam Rabbani,Apache RTR 4V,Hill-track,4300
+Shakhawat Hossain Niloy,Gixxer/gixxer-sf,Highway,16000
+Shakhawat Hossain Niloy,Gixxer/gixxer-sf,Hill-track,3300
+S. M. Mahfujur Rahman,Pulsar ug3/ug4/ug4.5/ug5,City,8300
+S. M. Mahfujur Rahman,Pulsar ug3/ug4/ug4.5/ug5,Highway,14000
+S. M. Mahfujur Rahman,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,3600
+Polash,Fz/fazer,City,8700
+Polash,Fz/fazer,Highway,21000
+Polash,Fz/fazer,Hill-track,6000
+Wasif Armaan,Fz/fazer,City,11700
+Wasif Armaan,Fz/fazer,Highway,22000
+Wasif Armaan,Fz/fazer,Hill-track,6590
+Mirza,Bajaj CT100 (drum),Highway,7000
+Mirza,Bajaj CT100 (drum),Hill-track,2698
+Jahid,Fz/fazer,City,13000
+Jahid,Fz/fazer,Highway,19000
+Jahid,Fz/fazer,Hill-track,6549
+Rizon,Fz/fazer,City,8687
+Rizon,Fz/fazer,Highway,16975
+Rizon,Fz/fazer,Hill-track,4572
+Sohan,R15 V3/V4,City,8754
+Sohan,R15 V3/V4,Highway,19623
+Sohan,R15 V3/V4,Hill-track,3278
+Purno,MT15/MTV2,City,6000
+Purno,MT15/MTV2,Highway,12000
+Purno,MT15/MTV2,Hill-track,4000
+PurnoDi,MT15/MTV2,City,7500
+PurnoDi,MT15/MTV2,Highway,14000
+PurnoDi,MT15/MTV2,Hill-track,5000
+Iqbal,R15 V3/V4,City,8745
+Iqbal,R15 V3/V4,Highway,15876
+Iqbal,R15 V3/V4,Hill-track,3907
+Badol,Gixxer/gixxer-sf,City,8745
+Badol,Gixxer/gixxer-sf,Highway,16347
+Badol,Gixxer/gixxer-sf,Hill-track,4865
+Sobhan,Gixxer/gixxer-sf,City,13765
+Sobhan,Gixxer/gixxer-sf,Highway,23784
+Sobhan,Gixxer/gixxer-sf,Hill-track,8566
+Sourav,Hunk/ Extreme / CBZ,City,12777
+Sourav,Hunk/ Extreme / CBZ,Highway,19856
+Sourav,Hunk/ Extreme / CBZ,Hill-track,4588
+Sourav,Honda Hornet,City,8798
+Sourav,Honda Hornet,Highway,15874
+Sourav,Honda Hornet,Hill-track,4795
+Niloy,Honda CbTrigger,City,9899
+Niloy,Honda CbTrigger,Highway,16837
+Niloy,Honda CbTrigger,Hill-track,4454
+Sohanur Rahman Sweet,Honda CbTrigger,City,13222
+Sohanur Rahman Sweet,Honda CbTrigger,Highway,22546
+Sohanur Rahman Sweet,Honda CbTrigger,Hill-track,8886
+Shakhawat Hossain Niloy,Pulsar ug3/ug4/ug4.5/ug5,City,15298
+Shakhawat Hossain Niloy,Pulsar ug3/ug4/ug4.5/ug5,Highway,22985
+Shakhawat Hossain Niloy,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,6823
+Moidul priyo,Honda X-blade,Highway,18726
+Moidul priyo,Honda X-blade,City,8928
+Moidul priyo,Honda X-blade,Hill-track,3862
+Al Faysal,Honda Hornet,City,9734
+Al Faysal,Honda Hornet,Highway,17821
+Al Faysal,Honda Hornet,Hill-track,4654
+Tiham Inkiad,R15 V3/V4,City,7800
+Tiham Inkiad,R15 V3/V4,Highway,14000
+Tiham Inkiad,R15 V3/V4,Hill-track,2500
+Tiham Inkiad,Pulsar NS160,City,12500
+Tiham Inkiad,Pulsar NS160,Highway,17000
+Tiham Inkiad,Pulsar NS160,Hill-track,3700
+Shihabur Rahman,Honda CBR,City,10900
+Shihabur Rahman,Honda CBR,Highway,17090
+Shihabur Rahman,Honda CBR,Hill-track,4001
+Shadman ED,R15 V3/V4,City,10000
+Shadman ED,R15 V3/V4,Highway,16000
+Shadman ED,R15 V3/V4,Hill-track,2800
+Shihabur Rahman,Pulsar ug3/ug4/ug4.5/ug5,City,12000
+Shihabur Rahman,Pulsar ug3/ug4/ug4.5/ug5,Highway,19999
+Shihabur Rahman,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,2900
+Ohon Hamin,Suzuki GSX-R/GSX-S (150),City,12000
+Ohon Hamin,Suzuki GSX-R/GSX-S (150),Highway,18000
+Ohon Hamin,Suzuki GSX-R/GSX-S (150),Hill-track,5500
+Shihab 35b,Gixxer/gixxer-sf,City,11765
+Shihab 35b,Gixxer/gixxer-sf,Highway,19345
+Shihab 35b,Gixxer/gixxer-sf,Hill-track,3463
+Washim Akram,Fz/fazer,City,13765
+Washim Akram,Fz/fazer,Highway,21546
+Washim Akram,Fz/fazer,Hill-track,4364
+Nasim Taif,Bajaj Discover (Disc),City,13211
+Nasim Taif,Bajaj Discover (Disc),Highway,24876
+Nasim Taif,Bajaj Discover (Disc),Hill-track,4399
+Motiur Rahman,Bajaj Discover (Disc),City,15000
+Motiur Rahman,Bajaj Discover (Disc),Highway,25000
+Rohan K,Bajaj Discover (Disc),Hill-track,6453
+Julhash Mia,Bajaj Discover (Disc),City,13654
+Julhash Mia,Bajaj Discover (Disc),Highway,16458
+Lobdho,Bajaj Discover (Disc),Hill-track,4536
+Mamunur Rashid,Hunk/ Extreme / CBZ,City,6547
+Mamunur Rashid,Hunk/ Extreme / CBZ,Highway,13241
+Mamunur Rashid,Hunk/ Extreme / CBZ,Hill-track,2745
+RS Sadat Rayan,Gixxer/gixxer-sf,City,9745
+RS Sadat Rayan,Gixxer/gixxer-sf,Highway,16453
+RS Sadat Rayan,Gixxer/gixxer-sf,Hill-track,5745
+HS Khan,Apache RTR 4V,City,9000
+HS Khan,Apache RTR 4V,Highway,14000
+HS Khan,Apache RTR 4V,Hill-track,3800
+Anik Khan,Gixxer/gixxer-sf,City,8000
+Anik Khan,Gixxer/gixxer-sf,Highway,12876
+Anik Khan,Gixxer/gixxer-sf,Hill-track,6547
+Mahfuzz,MT15/MTV2,City,7800
+Mahfuzz,MT15/MTV2,Highway,13500
+Mahfuzz,MT15/MTV2,Hill-track,3400
+Arup Roy,Pulsar NS160,City,7685
+Arup Roy,Pulsar NS160,Highway,13875
+Arup Roy,Pulsar NS160,Hill-track,2934
+Shakil Sawon,R15 V3/V4,City,8000
+Shakil Sawon,R15 V3/V4,Highway,15600
+Shakil Sawon,R15 V3/V4,Hill-track,3300
+Masnovi Zadid,Fz/fazer,City,8900
+Masnovi Zadid,Pulsar ug3/ug4/ug4.5/ug5,City,12097
+Masnovi Zadid,Fz/fazer,Highway,16999
+Masnovi Zadid,Fz/fazer,Hill-track,2799
+Masnovi Zadid,Pulsar ug3/ug4/ug4.5/ug5,Highway,18765
+Masnovi Zadid,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,3655
+Kazi Rubaiyat,Fz/fazer,City,8677
+Kazi Rubaiyat,Fz/fazer,Highway,14867
+Kazi Rubaiyat,Fz/fazer,Hill-track,3425
+Kazi Rubaiyat,R15 V3/V4,City,12758
+Kazi Rubaiyat,R15 V3/V4,Highway,16458
+Kazi Rubaiyat,R15 V3/V4,Hill-track,4365
+Nivir Ahmed,Apache RTR,City,8766
+Nivir Ahmed,Apache RTR,Highway,14765
+Nivir Ahmed,Apache RTR,Hill-track,3643
+Shahil Patwary,Bajaj Discover (Disc),City,13543
+Shahil Patwary,Bajaj Discover (Disc),Highway,16543
+Shahil Patwary,Bajaj Discover (Disc),Hill-track,5427
+A H Pappu,Apache RTR,City,11645
+A H Pappu,Apache RTR,Highway,16543
+A H Pappu,Apache RTR,Hill-track,4122
+Sezan Mahmud,Bajaj Discover (Disc),City,12333
+Sezan Mahmud,Bajaj Discover (Disc),Highway,17566
+Sezan Mahmud,Bajaj Discover (Disc),Hill-track,5444
+Arifur Rahman Abir,Pulsar ug3/ug4/ug4.5/ug5,City,12432
+Arifur Rahman Abir,Pulsar ug3/ug4/ug4.5/ug5,Highway,29876
+Arifur Rahman Abir,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,3758
+Rahik Redwan,Gixxer/gixxer-sf,City,7966
+Rahik Redwan,Gixxer/gixxer-sf,Highway,12599
+Rahik Redwan,Gixxer/gixxer-sf,Hill-track,4366
+Sakib Hossain Sohan,R15 V3/V4,City,9282
+Sakib Hossain Sohan,R15 V3/V4,Highway,16823
+Sakib Hossain Sohan,R15 V3/V4,Hill-track,4277
+Tarzen Riad,Pulsar ug3/ug4/ug4.5/ug5,City,12333
+Tarzen Riad,Pulsar ug3/ug4/ug4.5/ug5,Highway,16542
+Tarzen Riad,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,4325
+Nachin FArdin,Apache RTR,City,9000
+Nachin FArdin,Apache RTR,Highway,12500
+Nachin FArdin,Apache RTR,Hill-track,3200
+NAfis Fuad,Gixxer/gixxer-sf,City,12000
+NAfis Fuad,Gixxer/gixxer-sf,Highway,15000
+NAfis Fuad,Gixxer/gixxer-sf,Hill-track,3400
+Sabbir Ahmed Aronno,Honda X-blade,City,9888
+Sabbir Ahmed Aronno,Honda X-blade,Highway,13888
+Sabbir Ahmed Aronno,Honda X-blade,Hill-track,3422
+Sabbir Ahmed Aronno,Apache RTR 4V,City,7557
+Sabbir Ahmed Aronno,Apache RTR 4V,Highway,13554
+Sabbir Ahmed Aronno,Apache RTR 4V,Hill-track,4533
+Eyasin Arafat Shithil,Gixxer/gixxer-sf,City,9666
+Eyasin Arafat Shithil,Gixxer/gixxer-sf,Highway,14634
+Eyasin Arafat Shithil,Gixxer/gixxer-sf,Hill-track,5466
+Shommo Dev,R15 V3/V4,City,11235
+Shommo Dev,R15 V3/V4,Highway,15345
+Shommo Dev,R15 V3/V4,Hill-track,1999
+Hasibul Hassan Antor,Gixxer/gixxer-sf,City,12423
+Hasibul Hassan Antor,Gixxer/gixxer-sf,Highway,18243
+Hasibul Hassan Antor,Gixxer/gixxer-sf,Hill-track,3644
+Zaki Ayon,Gixxer/gixxer-sf,City,11234
+Zaki Ayon,Gixxer/gixxer-sf,Highway,17654
+Zaki Ayon,Gixxer/gixxer-sf,Hill-track,3421
+Rashedul Uzzal,Gixxer/gixxer-sf,City,8722
+Rashedul Uzzal,Gixxer/gixxer-sf,Highway,16543
+Rashedul Uzzal,Gixxer/gixxer-sf,Hill-track,4532
+Mahir Faisal,Pulsar ug3/ug4/ug4.5/ug5,City,11876
+Mahir Faisal,Pulsar ug3/ug4/ug4.5/ug5,Highway,17456
+Mahir Faisal,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,4332
+Mahir Faisal,Fz/fazer,City,11654
+Mahir Faisal,Fz/fazer,Highway,18456
+Mahir Faisal,Fz/fazer,Hill-track,3645
+Farhan Jubeir,Apache RTR 4V,City,7688
+Farhan Jubeir,Apache RTR 4V,Highway,17543
+Farhan Jubeir,Apache RTR 4V,Hill-track,2756
+Khalid Saifullah,Apache RTR,City,13222
+Khalid Saifullah,Apache RTR,Highway,19887
+Khalid Saifullah,Apache RTR,Hill-track,4287
+Atikul Tipu,Pulsar ug3/ug4/ug4.5/ug5,City,13266
+Atikul Tipu,Pulsar ug3/ug4/ug4.5/ug5,Highway,19432
+Atikul Tipu,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,4366
+Atikul Tipu,Fz/fazer,City,12000
+Atikul Tipu,Fz/fazer,Highway,17000
+Atikul Tipu,Fz/fazer,Hill-track,4500
+Rifah Al Mubin,Gixxer/gixxer-sf,City,9088
+Rifah Al Mubin,Gixxer/gixxer-sf,Highway,15999
+Rifah Al Mubin,Gixxer/gixxer-sf,Hill-track,4399
+Rifah Al Mubin,Pulsar ug3/ug4/ug4.5/ug5,City,11765
+Rifah Al Mubin,Pulsar ug3/ug4/ug4.5/ug5,Highway,18765
+Rifah Al Mubin,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,5466
+Rifah Al Mubin,Bajaj Discover (Disc),City,14332
+Rifah Al Mubin,Bajaj Discover (Disc),Highway,22876
+Rifah Al Mubin,Bajaj Discover (Disc),Hill-track,5433
+Lazim Tausif,Bajaj Discover (Disc),City,13421
+Lazim Tausif,Bajaj Discover (Disc),Highway,17556
+Lazim Tausif,Bajaj Discover (Disc),Hill-track,4366
+Esraq Nafee,Apache RTR,City,12231
+Esraq Nafee,Apache RTR,Highway,17654
+Esraq Nafee,Apache RTR,Hill-track,5466
+Sayfie Safwan,Honda CBR,City,12341
+Sayfie Safwan,Honda CBR,Highway,18765
+Sayfie Safwan,Honda CBR,Hill-track,4733
+Akhlakul Shuvo,Bajaj Discover (Disc),City,14534
+Akhlakul Shuvo,Bajaj Discover (Disc),Highway,22164
+Akhlakul Shuvo,Bajaj Discover (Disc),Hill-track,5463
+Aunik,Bajaj Discover (Disc),City,14536
+Aunik,Bajaj Discover (Disc),Highway,18659
+Aunik,Bajaj Discover (Disc),Hill-track,6543
+Joy Rdr,Apache RTR,City,13267
+Joy Rdr,Apache RTR,Highway,18754
+Joy Rdr,Apache RTR,Hill-track,4865
+Joy Rdr,Suzuki GSX-R/GSX-S (150),City,8744
+Joy Rdr,Suzuki GSX-R/GSX-S (150),Highway,12435
+Joy Rdr,Suzuki GSX-R/GSX-S (150),Hill-track,3764
+Shajid Hossain,Bajaj CT100 (drum),City,6755
+Shajid Hossain,Bajaj CT100 (drum),Highway,15436
+Shajid Hossain,Bajaj CT100 (drum),Hill-track,4536
+Morsaline Mahim,Gixxer/gixxer-sf,City,9788
+Morsaline Mahim,Gixxer/gixxer-sf,Highway,15436
+Morsaline Mahim,Gixxer/gixxer-sf,Hill-track,4876
+Atiq Shahriar,Gixxer/gixxer-sf,City,11234
+Atiq Shahriar,Gixxer/gixxer-sf,Highway,18567
+Atiq Shahriar,Gixxer/gixxer-sf,Hill-track,3654
+Nasim Hasan,Apache RTR,City,12645
+Nasim Hasan,Apache RTR,Highway,18453
+Nasim Hasan,Apache RTR,Hill-track,3764
+MD Saykot,Gixxer/gixxer-sf,City,11264
+MD Saykot,Gixxer/gixxer-sf,Highway,16534
+MD Saykot,Gixxer/gixxer-sf,Hill-track,2697
+Sakif Aumi,Gixxer/gixxer-sf,City,8944
+Sakif Aumi,Gixxer/gixxer-sf,Highway,17654
+Sakif Aumi,Gixxer/gixxer-sf,Hill-track,2976
+Jurain Quraishe,Fz/fazer,City,13536
+Jurain Quraishe,Fz/fazer,Highway,18675
+Jurain Quraishe,Fz/fazer,Hill-track,5437
+Somudro,Honda CBR,City,11476
+Somudro,Honda CBR,Highway,17647
+Somudro,Honda CBR,Hill-track,3275
+Morsaline Emon,Fz/fazer,City,12363
+Morsaline Emon,Fz/fazer,Highway,16548
+Morsaline Emon,Fz/fazer,Hill-track,2799
+Rudro Rahat,Gixxer/gixxer-sf,City,11654
+Rudro Rahat,Gixxer/gixxer-sf,Highway,16474
+Rudro Rahat,Gixxer/gixxer-sf,Hill-track,3526
+Muntasir Munem,MT15/MTV2,City,9765
+Muntasir Munem,MT15/MTV2,Highway,15436
+Muntasir Munem,MT15/MTV2,Hill-track,3253
+Sun Salim,Suzuki GSX-R/GSX-S (150),City,7686
+Sun Salim,Honda CBR,City,9786
+Sun Salim,Gixxer/gixxer-sf,Highway,14327
+Sun Salim,Honda CBR,Highway,15364
+Sun Salim,Suzuki GSX-R/GSX-S (150),Hill-track,2536
+Sun Salim,Honda CBR,Hill-track,3754
+Niloy Khan,Gixxer/gixxer-sf,City,11654
+Niloy Khan,Gixxer/gixxer-sf,Highway,18754
+Niloy Khan,Gixxer/gixxer-sf,Hill-track,3634
+Niloy Khan,Apache RTR,City,11241
+Niloy Khan,Apache RTR,Highway,17654
+Niloy Khan,Apache RTR,Hill-track,3632
+Niloy Khan,Hunk/ Extreme / CBZ,City,12745
+Niloy Khan,Hunk/ Extreme / CBZ,Highway,21645
+Niloy Khan,Hunk/ Extreme / CBZ,Hill-track,3463
+Niloy Khan,Apache RTR 4V,City,7865
+Niloy Khan,Apache RTR 4V,Highway,13435
+Niloy Khan,Apache RTR 4V,Hill-track,2475
+Al Mahin,Honda CbTrigger,City,13241
+Al Mahin,Honda CbTrigger,Highway,16474
+Al Mahin,Honda CbTrigger,Hill-track,5745
+Niloy Khan,Fz/fazer,City,8000
+Niloy Khan,Fz/fazer,Highway,17000
+Niloy Khan,Fz/fazer,Hill-track,4000
+Fardin,Apache RTR 4V,City,9000
+Fardin,Apache RTR 4V,Highway,16000
+Fardin,Apache RTR 4V,Hill-track,3900
+Nivir Ahmed,Apache RTR 4V,Hill-track,3500
+Nivir Ahmed,Apache RTR 4V,Highway,7800
+Nivir Ahmed,Apache RTR 4V,City,17890
+Joy Rdr,R15 V3/V4,City,8255
+Joy Rdr,R15 V3/V4,Highway,17550
+Sayfie bhai,Honda CBR,City,8555
+Sayfie bhai,Honda CBR,Highway,14586
+Sayfie bhai,Honda CBR,Hill-track,4522
+Ibrahim Shopnil,Gixxer/gixxer-sf,City,7800
+Ibrahim Shopnil,Gixxer/gixxer-sf,Highway,15789
+Ibrahim Shopnil,Gixxer/gixxer-sf,Hill-track,3500
+Hasnat Rifat,Pulsar ug3/ug4/ug4.5/ug5,City,8988
+Hasnat Rifat,Pulsar ug3/ug4/ug4.5/ug5,Highway,15265
+Hasnat Rifat,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,3566
+Sadman Samir,Pulsar NS160,City,8722
+Sadman Samir,Pulsar NS160,Highway,15000
+Robin Rahman,Apache RTR,City,8745
+Robin Rahman,Apache RTR,Highway,14658
+Robin Rahman,Apache RTR,Hill-track,3678
+MD Zeadul,Bajaj CT100 (drum),City,8000
+MD Zeadul,Bajaj CT100 (drum),Highway,13000
+MD Zeadul,Bajaj CT100 (drum),Hill-track,2988
+MD Mamunur Rashid,Bajaj Discover (Disc),City,9000
+MD Mamunur Rashid,Bajaj Discover (Disc),Highway,16854
+MD Mamunur Rashid,Bajaj Discover (Disc),Hill-track,4200
+Robiul Rabbi,Apache RTR,City,8566
+Robiul Rabbi,Apache RTR,Highway,14568
+Robiul Rabbi,Apache RTR,Hill-track,3577
+Taifur Rahman Mahigonj,Bajaj Discover (Disc),City,8975
+Taifur Rahman Mahigonj,Bajaj Discover (Disc),Highway,17458
+Taifur Rahman Mahigonj,Bajaj Discover (Disc),Hill-track,3857
+Shahin Ahmed,Pulsar ug3/ug4/ug4.5/ug5,City,9125
+Shahin Ahmed,Pulsar ug3/ug4/ug4.5/ug5,Highway,18795
+Shahin Ahmed,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,3986
+Ankit Tiwari,Honda CbTrigger,City,9500
+Ankit Tiwari,Honda CbTrigger,Highway,16500
+Ankit Tiwari,Honda CbTrigger,Hill-track,3700
+Alamin26,Suzuki GSX-R/GSX-S (150),City,9000
+Alamin26,Suzuki GSX-R/GSX-S (150),Highway,16000
+Alamin26,Suzuki GSX-R/GSX-S (150),Hill-track,3500
+Taibu,Bajaj CT100 (drum),City,9300
+Taibu,Bajaj CT100 (drum),Highway,15600
+Taibu,Bajaj CT100 (drum),Hill-track,4400
+Nikkkhil,Suzuki Access 125,City,8700
+Nikkkhil,Suzuki Access 125,Highway,15800
+Nikkkhil,Suzuki Access 125,Hill-track,3897
+Tamim,Pulsar NS160,City,8967
+Tamim,Pulsar NS160,Highway,15598
+Tamim,Pulsar NS160,Hill-track,3586
+Prieo Foodie,Honda X-blade,City,8946
+Prieo Foodie,Honda X-blade,Highway,15984
+Prieo Foodie,Honda X-blade,Hill-track,3587
+Rahman Shourav,Honda Hornet,City,9387
+Rahman Shourav,Honda Hornet,Highway,16675
+Rahman Shourav,Honda Hornet,Hill-track,4187
+Taimi R,Lifan KPR/KPT/KPS/KPV,City,9300
+Taimi R,Lifan KPR/KPT/KPS/KPV,Highway,16456
+Taimi R,Lifan KPR/KPT/KPS/KPV,Hill-track,3856
+Ashraf U Rahat,Lifan KPR/KPT/KPS/KPV,City,8926
+Ashraf U Rahat,Lifan KPR/KPT/KPS/KPV,Highway,16728
+Ashraf U Rahat,Lifan KPR/KPT/KPS/KPV,Hill-track,4122
+Wasif Anwar,Lifan KPR/KPT/KPS/KPV,City,9783
+Wasif Anwar,Lifan KPR/KPT/KPS/KPV,Highway,16876
+Wasif Anwar,Lifan KPR/KPT/KPS/KPV,Hill-track,3709
+Oyan EP,Honda CBR,City,9487
+Oyan EP,Honda CBR,Highway,17123
+Oyan EP,Honda CBR,Hill-track,4287
+Turzo V,Honda CbTrigger,City,9567
+Turzo V,Honda CbTrigger,Highway,16123
+Turzo V,Honda CbTrigger,Hill-track,3654
+Palash ABL,Fz/fazer,City,9000
+Palash ABL,Fz/fazer,Highway,16000
+Palash ABL,Fz/fazer,Hill-track,3634
+MR MAHFIZ,Hunk/ Extreme / CBZ,City,9057
+MR MAHFIZ,Hunk/ Extreme / CBZ,Highway,15827
+MR MAHFIZ,Hunk/ Extreme / CBZ,Hill-track,4421
+Mamun U Rashid,Hunk/ Extreme / CBZ,City,9283
+Mamun U Rashid,Hunk/ Extreme / CBZ,Highway,17192
+Mamun U Rashid,Hunk/ Extreme / CBZ,Hill-track,3847
+Masud D Rahman,Gixxer/gixxer-sf,City,8976
+Masud D Rahman,Gixxer/gixxer-sf,Highway,16821
+Masud D Rahman,Gixxer/gixxer-sf,Hill-track,3718
+Alap Angon Fdr,Apache RTR,City,9182
+Alap Angon Fdr,Apache RTR,Highway,1644
+Alap Angon Fdr,Apache RTR,Hill-track,4533
+Ahsan Habib,Apache RTR 4V,City,8538
+Ahsan Habib,Apache RTR 4V,Highway,16752
+Ahsan Habib,Apache RTR 4V,Hill-track,4239
+Maruf B,R15 V3/V4,City,9827
+Maruf B,R15 V3/V4,Highway,17381
+Maruf B,R15 V3/V4,Hill-track,3658
+Washim Agun,Fz/fazer,City,9214
+Washim Agun,Fz/fazer,Highway,16759
+Washim Agun,Fz/fazer,Hill-track,4123
+Niloy Hossain,Gixxer/gixxer-sf,City,10100
+Niloy Hossain,Gixxer/gixxer-sf,Highway,15934
+Niloy Hossain,Gixxer/gixxer-sf,Hill-track,3976
+Kalam Khan,Hunk/ Extreme / CBZ,City,8976
+Kalam Khan,Hunk/ Extreme / CBZ,Highway,14991
+Kalam Khan,Hunk/ Extreme / CBZ,Hill-track,3276
+Tawsif F,Apache RTR,Hill-track,3309
+Tawsif F,Apache RTR,City,9123
+Tawsif F,Apache RTR,Highway,17098
+Tohidul Islam,Apache RTR 4V,Highway,16947
+Tohidul Islam,Apache RTR 4V,City,9342
+Tohidul Islam,Apache RTR 4V,Hill-track,3765
+Badol M,R15 V3/V4,City,8723
+Badol M,R15 V3/V4,Hill-track,3512
+Badol M,R15 V3/V4,Highway,15872
+Rahim Uddin,Pulsar ug3/ug4/ug4.5/ug5,City,9843
+Rahim Uddin,Pulsar ug3/ug4/ug4.5/ug5,Highway,17567
+Rahim Uddin,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,3654
+Surjo Thai,Honda CBR,City,9812
+Surjo Thai,Honda CBR,Highway,17098
+Surjo Thai,Honda CBR,Hill-track,3241
+Jalal Khan,Lifan KPR/KPT/KPS/KPV,City,9823
+Jalal Khan,Lifan KPR/KPT/KPS/KPV,Highway,14999
+Jalal Khan,Lifan KPR/KPT/KPS/KPV,Hill-track,3987
+Ripu Inat,Honda Hornet,City,8988
+Ripu Inat,Honda Hornet,Highway,16543
+Ripu Inat,Honda Hornet,Hill-track,3342
+Potol Kumar,Honda X-blade,City,10000
+Potol Kumar,Honda X-blade,Highway,16500
+Potol Kumar,Honda X-blade,Hill-track,4000
+Pagla Tiham,Pulsar NS160,City,8500
+Pagla Tiham,Pulsar NS160,Highway,15000
+Pagla Tiham,Pulsar NS160,Hill-track,3300
+Ridoy ATX,MT15/MTV2,City,10200
+Ridoy ATX,MT15/MTV2,Highway,17500
+Ridoy ATX,MT15/MTV2,Hill-track,3800
+Rhyme AJS,Suzuki Access 125,City,10000
+Rhyme AJS,Suzuki Access 125,Highway,17243
+Rhyme AJS,Suzuki Access 125,Hill-track,4300
+Ahsan Maruf,Bajaj CT100 (drum),City,9111
+Ahsan Maruf,Bajaj CT100 (drum),Highway,14500
+Ahsan Maruf,Bajaj CT100 (drum),Hill-track,3200
+Samir Sakib,Bajaj Discover (Disc),City,9000
+Samir Sakib,Bajaj Discover (Disc),Highway,17500
+Samir Sakib,Bajaj Discover (Disc),Hill-track,4000
+C Borhan,Suzuki GSX-R/GSX-S (150),City,9876
+C Borhan,Suzuki GSX-R/GSX-S (150),Highway,16756
+C Borhan,Suzuki GSX-R/GSX-S (150),Hill-track,3543
+MD Hossain ,Honda CbTrigger,City,10500
+MD Hossain ,Honda CbTrigger,Highway,16998
+MD Hossain ,Honda CbTrigger,Hill-track,3154
+Tarek Hossain,Suzuki GSX-R/GSX-S (150),City,9756
+Tarek Hossain,Suzuki GSX-R/GSX-S (150),Highway,17544
+Tarek Hossain,Suzuki GSX-R/GSX-S (150),Hill-track,4666
+Motaleb Khan,Honda CbTrigger,City,10000
+Motaleb Khan,Honda CbTrigger,Highway,16700
+Motaleb Khan,Honda CbTrigger,Hill-track,3677
+Sirajul Islam,Fz/fazer,City,10400
+Motaleb Khan,Fz/fazer,Highway,16291
+Motaleb Khan,Fz/fazer,Hill-track,3211
+Sahidul Islam,Bajaj Discover (Disc),City,10200
+Sahidul Islam,Bajaj Discover (Disc),Highway,15900
+Sahidul Islam,Bajaj Discover (Disc),Hill-track,4300
+Sopu Rahman,Bajaj CT100 (drum),City,9900
+Sopu Rahman,Bajaj CT100 (drum),Highway,15400
+Sopu Rahman,Bajaj CT100 (drum),Hill-track,3766
+Mithu Mia,Suzuki Access 125,City,9799
+Mithu Mia,Suzuki Access 125,Highway,16555
+Mithu Mia,Suzuki Access 125,Hill-track,4122
+Robiul Islam Bappi,MT15/MTV2,City,9888
+Robiul Islam Bappi,MT15/MTV2,Highway,15645
+Robiul Islam Bappi,MT15/MTV2,Hill-track,4122
+Joynal Mia,Pulsar NS160,City,9877
+Joynal Mia,Pulsar NS160,Highway,17111
+Joynal Mia,Pulsar NS160,Hill-track,4111
+Monoar Islam,Honda X-blade,City,8922
+Monoar Islam,Honda X-blade,Highway,17211
+Monoar Islam,Honda X-blade,Hill-track,4288
+Liton Das,Honda Hornet,City,10100
+Liton Das,Honda Hornet,Highway,15000
+Liton Das,Honda Hornet,Hill-track,3609
+Monirul Hassan,Lifan KPR/KPT/KPS/KPV,City,9733
+Monirul Hassan,Lifan KPR/KPT/KPS/KPV,Highway,14985
+Monirul Hassan,Lifan KPR/KPT/KPS/KPV,Hill-track,3926
+Tanjil THD,Honda CBR,City,10111
+Tanjil THD,Honda CBR,Highway,14923
+Tanjil THD,Honda CBR,Hill-track,3766
+Tajwar Dipto,Pulsar ug3/ug4/ug4.5/ug5,City,10521
+Tajwar Dipto,Pulsar ug3/ug4/ug4.5/ug5,Highway,16987
+Tajwar Dipto,Pulsar ug3/ug4/ug4.5/ug5,Hill-track,4288
+Shahriar Kabir Shuvo,R15 V3/V4,City,8977
+Shahriar Kabir Shuvo,R15 V3/V4,Highway,16541
+Shahriar Kabir Shuvo,R15 V3/V4,Hill-track,3721
+Ahmed Galib,Apache RTR 4V,City,8900
+Ahmed Galib,Apache RTR 4V,Highway,15665
+Ahmed Galib,Apache RTR 4V,Hill-track,4188
+Ronojoy Hem,Apache RTR,City,9866
+Ronojoy Hem,Apache RTR,Highway,9099
+Ronojoy Hem,Apache RTR,Hill-track,3983
+Soumitra Ghose,Hunk/ Extreme / CBZ,City,8999
+Soumitra Ghose,Hunk/ Extreme / CBZ,Hill-track,3762
+Soumitra Ghose,Hunk/ Extreme / CBZ,Highway,17246
+Rafsan Xani,Lifan KPR/KPT/KPS/KPV,City,9844
+Susan G,Suzuki GSX-R/GSX-S (150),Hill-track,3288
+Raju Islam,R15 V3/V4,Highway,17195
+Zion Mejba,Suzuki Access 125,City,10200
+Rhyme Armaan,Honda CBR,Hill-track,3873
+Bappi Khan,Apache RTR 4V,City,10477
